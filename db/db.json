@@ -1,6 +1,10 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "title": "Smoothie Party",
+    "text": "I need Apples, bananas, oranges, kiwis, strawberries for the smoothies"
+  }
 ]
