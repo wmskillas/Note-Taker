@@ -4,7 +4,7 @@
 
 ## How to use
 
-- Once deployed to heroku anyone can use the application to take notes.
+- Once deployed to heroku anyone can use the application to take notes on the internet.
 
 ## GitHub
 
